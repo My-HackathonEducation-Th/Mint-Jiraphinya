@@ -69,13 +69,12 @@ export type SectionId = (typeof SectionId)[keyof typeof SectionId];
  */
 export const heroData: Hero = {
   imageSrc: heroImage,
-  name: `I'm Tim Baker.`,
+  name: `I'm Mint Jiraphinya.`,
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Victoria based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-        at <strong className="text-stone-100">Instant Domains</strong> helping build a modern, mobile-first, domain
-        registrar and site builder.
+        Open source by Mr. Tim Baker  <strong className="text-stone-100">Full Stack Software Engineer</strong>,The website he built 7-8 years ago
+        at <strong className="text-stone-100"> still looks good.</strong> and it's about Thailand I think he feels good about something. Thanks for the idea. and sharing.Some messages talk about Thailand.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
